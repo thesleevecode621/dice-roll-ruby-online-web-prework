@@ -2,7 +2,7 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-def roll(1..6)
-  pu
+def roll
+  puts roll rand(1..6)
  
 end
