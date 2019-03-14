@@ -6,5 +6,5 @@ def roll()
   puts roll=rand(1..6)
   return roll
   
- 
+end 
 end
